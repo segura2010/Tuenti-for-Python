@@ -17,4 +17,4 @@ de Tuenti pide el "Application Key".
 
 
 Tuenti for Python version 0.0.1
-by @segura201093
+by @alberto__segura
